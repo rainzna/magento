@@ -34,7 +34,7 @@
       <file leaf-file-name="configurable.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/app/design/frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="360">
               <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
               <folding />
             </state>
@@ -188,6 +188,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clean.magento.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clean.magento.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -195,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../local.honghua.com" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="te&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/code/core/Mage/Core/Block/Template.php&#10;head.ph&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/design/frontend/base/default/template/page/html/head.phtml&#10;frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/design/frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml&#10;configurableswatches/catalog/product/view/type/configurable.phtml&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/code/core/Mage/Core/Block/Template.php&#10;frontend/rwd/default/template/configurableswatches/catalog/product/view/type/configurable/swatch-js.phtml&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/design/frontend/rwd/default/template/configurableswatches/catalog/product/view/type/configurable/swatch-js.phtml&#10;frontend/rwd/default/template/customer/address/edit.phtml&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/design/frontend/rwd/default/template/customer/address/edit.phtml&#10;template.ph&#9;FILE&#9;file:///var/www/html/clean.magento.com/public_html/app/code/core/Mage/Core/Block/Template.php" />
   </component>
@@ -262,12 +272,12 @@
       <workItem from="1484295875166" duration="1442000" />
       <workItem from="1484621900966" duration="3647000" />
       <workItem from="1484631166824" duration="3547000" />
-      <workItem from="1484635158062" duration="1702000" />
+      <workItem from="1484635158062" duration="2259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10338000" />
+    <option name="totallyTimeSpent" value="10895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="975" extended-state="0" />
@@ -652,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/app/design/frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="360">
           <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
           <folding />
         </state>
